@@ -11,5 +11,9 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.1.4"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/daragilroy/turtle-minefield-game-javascript-node"
   }
 }
