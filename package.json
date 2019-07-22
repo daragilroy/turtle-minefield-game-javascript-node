@@ -1,0 +1,15 @@
+{
+  "name": "turtle",
+  "version": "1.0.0",
+  "description": "Fluke's Turtle Tech Challenge",
+  "main": "minefield.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dara Gilroy",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
