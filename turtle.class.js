@@ -36,7 +36,7 @@ module.exports = class Turtle {
 	        if ( moves[i] == 'm'){
 
 	            position = this.move(position, direction);
-	           	console.log(`\nNew position: ${position}`);
+	           	// console.log(`\nNew position: ${position}`);
 
 	            /* status changes only after a move forward so check status only here, 
 	            not after a rotation */
